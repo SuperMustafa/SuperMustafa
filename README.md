@@ -1,59 +1,46 @@
-<h1 align="left">Hi 👋! My name is Super Mustafa</h1>
+# Hi, I'm Mustafa 👋
 
-###
+🚀 Backend Developer specialized in .NET Core, C#, and SQL Server  
+🎯 Also familiar with frontend development using ReactJS  
+📚 Currently learning more about cloud technologies (Azure, AWS)  
 
-<h2 align="left">.NET Backend Developer Familiar with React Frontend Basics</h2>
+## Tech Stack:
+- Backend: .NET Core, ASP.NET MVC, Web API, Entity Framework
+- Frontend: ReactJS, HTML, CSS, Bootstrap
+- Databases: SQL Server, MySQL
+- Others: Git, GitHub, REST APIs, LINQ
 
-###
+## Projects
+[IKEA App – MVC Web Application]
+• Developed a scalable management system for departments, employees,
+users, and accounts using ASP.NET Core MVC and Entity Framework Core.
+• Implemented authentication and role-based authorization with ASP.NET
+Identity.
+• Built dynamic Razor Views for user-friendly data entry, listing, and search
+functionalities.
+• Integrated SQL Server for secure and efficient data storage.
+• Tools used: Visual Studio, Git, SQL Server Management Studio.
 
-<h3 align="left">Languages</h3>
 
-###
+[E-Commerce API – ASP.NET Core Web API]
+• Designed and built a robust backend for an e-commerce platform with
+features like product browsing, order management, and user authentication.
+• Implemented JWT-based authentication and integrated Redis for caching
+and performance improvement.
+• Implemented the Specification Design Pattern to create flexible, reusable,
+and maintainable queries for product filtering, searching, and sorting.
+• Exposed secure RESTful endpoints for frontend integration.
+• Tools used: Postman, Swagger, Docker.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nuget/004880" height="30" alt="nuget logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-</div>
 
-###
+Frontend Projects:
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhOWFoNGs4NTE1MG1meWFjdXM2ZnBhYzRxcmxzZXdibWJ4ZHlueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EOYACH9SWWA45b4Bp/giphy.gif"  />
+[Restaurant App] (Yummy): API-driven menu and recipe display with
+interactive UX. Live on : [https://supermustafa.github.io/Yummy/]
 
-###
+[Fresh Cart]: Full shopping cart app with user authentication, payment
+gateway integration, and React context API. live on : https://supermustafa.github.io/chart-cart/
 
-<h3 align="left">My Projects</h3>
-
-###
+Let's connect!
+[LinkedIn] [https://www.linkedin.com/in/mustafa-hamad-44505b289/]
+[Gmail] [mustafahamad116aa@gmail.com]
