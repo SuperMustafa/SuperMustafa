@@ -56,7 +56,17 @@
 
 ###
 ## Projects
+[GameZone App – MVC Web Application]
+###
+The Games Management System is a full-stack ASP.NET Core MVC web application
+designed to manage a collection of video games through robust CRUD (Create, Read, Update, Delete)
+operations. The project offers a seamless and intuitive user experience, 
+allowing users to easily add, edit, view,
+and delete game records while interacting with a polished and responsive interface.
+[https://github.com/SuperMustafa/GameZone.git]
+###
 [IKEA App – MVC Web Application]
+###
 • Developed a scalable management system for departments, employees,
 users, and accounts using ASP.NET Core MVC and Entity Framework Core.
 • Implemented authentication and role-based authorization with ASP.NET
@@ -66,9 +76,12 @@ functionalities.
 • Integrated SQL Server for secure and efficient data storage.
 • Tools used: Visual Studio, Git, SQL Server Management Studio.
 [https://github.com/SuperMustafa/IKEA.git]
-
+###
+###
+###
 
 [E-Commerce API – ASP.NET Core Web API]
+###
 • Designed and built a robust backend for an e-commerce platform with
 features like product browsing, order management, and user authentication.
 • Implemented JWT-based authentication and integrated Redis for caching
